@@ -1,0 +1,3 @@
+C:/Users/ILICH/CLionProjects/test2/cmake-build-debug/CMakeFiles/lab02.dir
+C:/Users/ILICH/CLionProjects/test2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ILICH/CLionProjects/test2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

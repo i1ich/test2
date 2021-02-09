@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ILICH/CLionProjects/test2/kystyn.rc
+
+C:/Users/ILICH/CLionProjects/test2/menu.rc
+menu.h
+C:/Users/ILICH/CLionProjects/test2/menu.h
+
